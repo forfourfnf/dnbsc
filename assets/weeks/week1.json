@@ -1,48 +1,53 @@
 {
-	"storyName": "Dave's fun rapping battle!",
+	"storyName": "the farm",
 	"hideFreeplay": false,
-	"weekBackground": "davehouse",
+	"weekBackground": "bamballs",
 	"weekBefore": "tutorial",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
 	"startUnlocked": true,
 	"weekCharacters": [
-		"davehouse",
-		"davehouse",
-		"davehouse"
+		"",
+		"",
+		""
 	],
 	"songs": [
 		[
-			"House",
-			"dave",
+			"Blocked",
+			"bambi",
 			[
 				0,
-				113,
-				253
-			]
-		],
-		[
-			"Insanity",
-			"dave",
-			[
-				0,
-				113,
-				253
-			]
-		],
-		[
-			"Polygonized",
-			"dave-furiosity",
-			[
 				255,
-				193,
-				253
+				0
+			]
+		],
+		[
+			"Corn Theft",
+			"bambi",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Maze",
+			"bambi",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Bonus Song",
+			"bambi",
+			[
+				0,
+				175,
+				0
 			]
 		]
 	],
 	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
 	"weekName": "Week 1"
 }

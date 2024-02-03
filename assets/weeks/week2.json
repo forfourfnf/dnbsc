@@ -1,25 +1,43 @@
 {
-	"storyName": "BRUH THERES MORE???",
+	"storyName": "the farm...",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
 	"songs": [
 		[
-			"Bonus-Song",
-			"dave",
+			"Apathetic",
+			"pissyboy",
 			[
 				0,
-				113,
-				253
+				255,
+				0
+			]
+		],
+		[
+			"Screwed",
+			"pissyboy",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Overthink",
+			"overthink",
+			[
+				0,
+				175,
+				0
 			]
 		]
 	],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"weekName": "Week 2"
 }

@@ -1,7 +1,7 @@
 {
-	"storyName": "Mr. Bambi's Fun Corn Maze!",
+	"storyName": "The Burning Farm",
 	"hideFreeplay": false,
-	"weekBackground": "bamballs",
+	"weekBackground": "davehouse",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -9,40 +9,49 @@
 		253
 	],
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
-		"davehouse",
-		"davehouse",
-		"davehouse"
+		"",
+		"",
+		""
 	],
 	"songs": [
 		[
-			"Blocked",
-			"bambi",
+			"Reality-Breaking",
+			"angrymarelo",
 			[
+				255,
 				0,
-				193,
 				0
 			]
 		],
 		[
-			"Corn-theft",
-			"bambi",
+			"Dismember",
+			"angrymarelo",
 			[
+				255,
 				0,
-				193,
 				0
 			]
 		],
 		[
-			"Maze",
-			"bambi",
+			"Nomophobia",
+			"garcello",
 			[
-				0,
-				193,
-				0
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Kalampokiphobia",
+			"garcello",
+			[
+				255,
+				255,
+				255
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "Week 3"
 }
