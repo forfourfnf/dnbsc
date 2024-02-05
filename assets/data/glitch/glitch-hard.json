@@ -17541,7 +17541,7 @@
 		"screwYou": null,
 		"sections": 1,
 		"stage": "bambisFarm",
-		"needsVoices": true,
+		"needsVoices": false,
 		"bpm": 261
 	}
 }
