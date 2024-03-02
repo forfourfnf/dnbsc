@@ -10797,7 +10797,7 @@
 		"stage": "bambisFarm",
 		"needsVoices": true,
 		"validScore": true,
-		"speed": 3.5,
+		"speed": 3,
 		"bpm": 255
 	}
 }
